@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Toni Abiru
-- 👀 Current Temple MSBA graduate student interested in data analytics
+- 👀 Current Temple MSBA graduate student figuring out how data rules the world
 - 📫 How to reach me: toni.abiru@temple.edu, https://www.linkedin.com/in/toniabiru/
 
 <!---
