@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TrickyA
-- 👀 I’m interested in data analytics
+- 👋 Hi, I’m Toni Abiru
+- 👀 Current Temple MSBA graduate student interested in data analytics
 - 📫 How to reach me: toni.abiru@temple.edu, https://www.linkedin.com/in/toniabiru/
 
 <!---
